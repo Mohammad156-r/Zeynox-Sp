@@ -1257,6 +1257,7 @@ footer .container .section a:hover {
     align-items: center;
     transition: 0.3s;
     box-shadow: 0 0 3px #eee;
+    z-index:1000;
 }
 
 .btn-whatsapp:hover {
@@ -1266,6 +1267,7 @@ footer .container .section a:hover {
 .btn-whatsapp i {
     font-size: 35px;
 }
+
 
 
 
